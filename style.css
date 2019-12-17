@@ -1,0 +1,14 @@
+div.container{
+display: flex;
+}
+.lb{
+  position: relative;
+  top: 8px;
+  left: 95px;
+}
+.cg1{
+  margin-top: 65px;
+}
+img{
+  width: 300px;
+}
